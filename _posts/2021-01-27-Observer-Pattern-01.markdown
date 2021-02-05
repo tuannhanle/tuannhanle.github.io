@@ -3,6 +3,7 @@ layout: post
 title: "[1] Observer - Project Overview"
 categories: [Junior Developer, Observer]
 tags: [Unity, C#, DesignPattern]
+pin: true
 ---
 <img src="/assets/images/judev/sky-force-reloaded-unity.png" class="fit-image"> 
 

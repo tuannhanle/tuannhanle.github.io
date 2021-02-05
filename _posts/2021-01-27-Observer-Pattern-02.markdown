@@ -3,6 +3,7 @@ layout: post
 title: "[2] Observer - Handling Events"
 categories: [Junior Developer, Observer]
 tags: [Unity, C#, DesignPattern]
+pin: true
 ---
 <img src="/assets/images/judev/sky-force-reloaded-unity.png" class="fit-image"> 
 

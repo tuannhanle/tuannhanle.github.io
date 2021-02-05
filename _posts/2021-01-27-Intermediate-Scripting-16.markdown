@@ -3,6 +3,7 @@ layout: post
 title: "Bài 16: Attributes"
 categories: [Junior Developer, Intermediate Scripting]
 tags: [Unity, C#]
+pin: true
 ---
 <img src="/assets/images/judev/Unity-2D-and-3D-Games-From-Scratch-and-learn-C-Scripting.jpg" class="fit-image"> 
 
