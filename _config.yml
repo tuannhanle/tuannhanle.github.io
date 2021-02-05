@@ -19,6 +19,8 @@ title: Nhânity                          # the main title
 
 tagline: A Unity Dev   # it will display as the sub-title
 
+plugins: [jekyll-paginate]
+
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
   bootstrap Jekyll theme with responsive web design
