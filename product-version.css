@@ -1,0 +1,10 @@
+#product-version {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    z-index: 1; /* Ensure the version text is rendered above the canvas */
+}
+

@@ -9,6 +9,8 @@
   <title>Unity WebGL Player | webgame-hypercasual</title>
   <link rel="shortcut icon" href="TemplateData/favicon.ico">
   <link rel="stylesheet" href="TemplateData/style.css">
+  <link rel="stylesheet" href="product-version.css">
+
   <style>
     html,
     body {
@@ -36,6 +38,7 @@
 </head>
 <body>
 <div id="unity-container" class="unity-desktop">
+  <div id="product-version">Version: 0.0.2</div> <!-- Add this line -->
   <canvas id="unity-canvas"></canvas>
   <div id="unity-loading-bar">
     <div id="unity-logo"></div>
@@ -48,6 +51,7 @@
     <div id="unity-webgl-logo"></div>
     <div id="unity-fullscreen-button"></div>
     <div id="unity-build-title">webgame-hypercasual</div>
+    
   </div>
 </div>
 <script>
@@ -91,7 +95,7 @@
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
   productName: "webgame-hypercasual",
-  productVersion: "1.1",
+  productVersion: "0.0.2",
   showBanner: unityShowBanner,
   };
 
